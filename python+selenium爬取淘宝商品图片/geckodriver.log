@@ -1,0 +1,11 @@
+1532949360410	geckodriver	INFO	geckodriver 0.19.1
+1532949360430	geckodriver	INFO	Listening on 127.0.0.1:64801
+1532949363582	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyx\\AppData\\Local\\Temp\\rust_mozprofile.IkXzV8CATgS8"
+1532949368356	Marionette	INFO	Listening on port 64810
+1532949368880	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Child 8536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
